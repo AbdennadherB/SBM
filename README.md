@@ -25,8 +25,7 @@ SBM/
 │   ├── solver_functions.py  # SBM matrix builder and field computation
 │   └── main.py              # Main execution & plot scripts 
 ├── data/                    # STL models and .mat files
-├── README.md
-└── .gitignore
+└──README.md
 ```
 
 ---
